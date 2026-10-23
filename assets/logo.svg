@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 160" width="560" height="160" role="img" aria-label="The word crucial struck through in red ink, with says who? written in the margin">
+  <title>human-writer</title>
+  <text x="40" y="132" font-family="Georgia, 'Times New Roman', serif" font-size="88" fill="#8b9099">crucial</text>
+  <path d="M30 112 C 120 104, 220 110, 330 100" fill="none" stroke="#d62828" stroke-width="7" stroke-linecap="round"/>
+  <path d="M352 112 C 344 80, 352 52, 376 40" fill="none" stroke="#d62828" stroke-width="4" stroke-linecap="round"/>
+  <path d="M366 52 L 377 39 L 381 56" fill="none" stroke="#d62828" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="392" y="58" font-family="'Segoe Print', 'Bradley Hand', 'Comic Sans MS', cursive" font-size="34" fill="#d62828" transform="rotate(-7 392 58)">says who?</text>
+</svg>
