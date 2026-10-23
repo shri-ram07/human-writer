@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: rewrite-thin-chatgpt-draft
+expected_outcome: |
+  A rewrite of about the same length (280-460 words) that drops the marker phrases, template headings and summary conclusion, keeps the draft's real advice, and invents no restaurants, people, statistics or results; where a real detail would help it leaves a marked placeholder, and the reply tells the user what to supply.
+context:
+  scaffold_script: place-files.sh

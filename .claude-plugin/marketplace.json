@@ -1,0 +1,14 @@
+{
+  "name": "human-writer",
+  "description": "The human-writer skill: AI writing grounded in real facts and the author's own voice.",
+  "owner": {
+    "name": "Shri Ram Dwivedi"
+  },
+  "plugins": [
+    {
+      "name": "human-writer",
+      "source": "./",
+      "description": "Makes AI write like one specific person: real facts, the author's own voice, nothing invented or copied."
+    }
+  ]
+}

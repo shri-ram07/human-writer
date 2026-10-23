@@ -1,0 +1,17 @@
+{
+  "name": "human-writer",
+  "displayName": "Human Writer",
+  "version": "2.0.0",
+  "description": "Makes AI write like one specific person: real facts, the author's own voice, nothing invented or copied. Built from 2026 research on why AI writing reads as AI.",
+  "author": {
+    "name": "Shri Ram Dwivedi",
+    "url": "https://github.com/shri-ram07"
+  },
+  "homepage": "https://github.com/shri-ram07/human-writer",
+  "repository": "https://github.com/shri-ram07/human-writer",
+  "license": "MIT",
+  "keywords": ["writing", "ai-writing", "humanize", "voice", "originality", "plagiarism", "ai-detection", "agent-skills"],
+  "experimental": {
+    "evals": "skills/human-writer/evals"
+  }
+}

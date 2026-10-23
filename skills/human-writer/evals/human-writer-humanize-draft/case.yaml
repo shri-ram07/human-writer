@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: human-writer-humanize-draft
+expected_outcome: |
+  A rewrite that drops every marker phrase and the negative parallelism, uses the real numbers and events, takes a position, and ends without a summary.
+context:
+  scaffold_script: place-files.sh

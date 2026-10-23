@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this skill or its research, please cite it as below."
+title: "human-writer: an agent skill for grounded, original writing in the author's own voice"
+type: software
+authors:
+  - family-names: Dwivedi
+    given-names: Shri Ram
+version: 2.0.0
+date-released: 2026-10-23
+license: MIT
+repository-code: "https://github.com/shri-ram07/human-writer"
+keywords:
+  - ai-writing
+  - agent-skills
+  - large-language-models
+  - ai-text-detection
+  - plagiarism
+  - writing-style

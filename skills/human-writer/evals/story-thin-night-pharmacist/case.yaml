@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: story-thin-night-pharmacist
+expected_outcome: |
+  A story of roughly 600 words (480-720) with specific, non-stock names and setting, a concrete situation with tension or a turn, no moral or theme stated at the end, and none of the stock LLM fiction names or props.

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: oped-thin-four-day-week
+expected_outcome: |
+  An op-ed of roughly 650 words (520-780) that states its position early, makes an argument a reader could disagree with, and fabricates no statistics, studies, surveys, named executives or quotes; any evidence it leans on is real and attributed, or flagged for the user to source.

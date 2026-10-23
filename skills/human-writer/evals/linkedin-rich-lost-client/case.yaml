@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: linkedin-rich-lost-client
+expected_outcome: |
+  A first-person post under 250 words that uses the supplied facts (38%, August 2026, the May warning sign, the 20% cap, the monthly usefulness call, the fixed-price GA4 audit, 6 clients in 8 weeks), admits the mistake plainly, is neither a lessons listicle nor a humblebrag, and has no bold-label bullets or wall of hashtags.

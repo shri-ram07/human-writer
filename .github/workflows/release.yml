@@ -1,0 +1,21 @@
+name: release
+
+# Tag a version (git tag v2.0.0 && git push --tags) to publish human-writer.zip,
+# the file Claude apps accept under their Skills settings.
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  zip:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: cd skills && zip -r ../human-writer.zip human-writer -x "human-writer/evals/*"
+      - uses: softprops/action-gh-release@v2
+        with:
+          files: human-writer.zip
+          generate_release_notes: true

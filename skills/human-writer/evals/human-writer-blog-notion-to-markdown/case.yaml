@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: human-writer-blog-notion-to-markdown
+expected_outcome: |
+  A ~600-word first-person post with the given specifics, an opinion, uneven paragraphs, no preview/summary paragraphs, no marker vocabulary, no bold-label bullets, no negative parallelism.

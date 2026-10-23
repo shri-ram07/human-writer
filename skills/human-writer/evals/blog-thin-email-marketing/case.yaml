@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: blog-thin-email-marketing
+expected_outcome: |
+  A post of roughly 700 words (560-840) that takes a position a reader could disagree with, invents no statistics, studies, clients, names or quotes (anything that needs a real figure is stated without false precision or left as a marked placeholder), has no preview or summary paragraph, and contains no chat residue.
